@@ -8,7 +8,7 @@ Badminton Court Booking System
 
 ### Group Members
 
-1. Loo Jie Qi <b>(Team Lead)</b>
+1. Loo Jie Qi (Team Lead)
 2. Cheah Seng Yik
 3. Ng Shen Zhi
 
